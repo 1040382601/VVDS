@@ -183,4 +183,4 @@
 		private System.Windows.Forms.Button Btn_Cocina;
 	}
 }
-
+pana valide los botones 
